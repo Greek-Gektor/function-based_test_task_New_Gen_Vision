@@ -1,12 +1,10 @@
-/*
+
 <form>
     <input type="username" id="username" value = "">
     <input type="password" id="password" value = "">
     <span id = "message" style="color:red">
     <input type="button" value="Авторизоваться" onClick="authorization()">
 </form>
-*/
-
 
 
 function authorization() {
